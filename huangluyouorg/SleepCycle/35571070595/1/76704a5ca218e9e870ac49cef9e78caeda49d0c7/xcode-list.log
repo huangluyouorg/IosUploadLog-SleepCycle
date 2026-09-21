@@ -1,0 +1,16 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -project /Users/runner/work/SleepCycle/SleepCycle/SleepCycle/SleepCycle.xcodeproj
+
+Information about project "SleepCycle":
+    Targets:
+        SleepCycle
+
+    Build Configurations:
+        Debug
+        Release
+
+    If no build configuration is specified and -scheme is not passed then "Release" is used.
+
+    Schemes:
+        SleepCycle
+
