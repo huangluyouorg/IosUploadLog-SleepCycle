@@ -1,0 +1,4 @@
+2026-09-24 09:30:16.850 xcodebuild[6283:23047] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/36/tjdph2t965j8snz9_vkdnw0r0000gn/T/SleepCycle_2026-09-24_09-30-16.849.xcdistributionlogs".
+Exported SleepCycle to: /Users/runner/work/SleepCycle/SleepCycle/SleepCycle.ipa
+** EXPORT SUCCEEDED **
+

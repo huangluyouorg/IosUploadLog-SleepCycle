@@ -1,0 +1,15 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-09-24 09:30:55.212 ERROR: [ContentDelivery.Uploader.10127ED30] 
+=======================================
+UPLOAD FAILED with 1 error
+=======================================
+2026-09-24 09:30:55.214 ERROR: [altool.10127ED30] Validation failed (409) This bundle does not support one or more of the devices supported by the previous app version. Your app update must continue to support all devices previously supported. You declare supported devices in Xcode with the Targeted Device Family build setting. Refer to QA1623 for additional information: https://developer.apple.com/library/ios/#qa/qa1623/_index.html (ID: 51ff6bc4-4b5c-4583-b83d-e4007567401c)
+   NSUnderlyingError : Validation failed (-19241) This bundle does not support one or more of the devices supported by the previous app version. Your app update must continue to support all devices previously supported. You declare supported devices in Xcode with the Targeted Device Family build setting. Refer to QA1623 for additional information: https://developer.apple.com/library/ios/#qa/qa1623/_index.html
+      status : 409
+      detail : This bundle does not support one or more of the devices supported by the previous app version. Your app update must continue to support all devices previously supported. You declare supported devices in Xcode with the Targeted Device Family build setting. Refer to QA1623 for additional information: https://developer.apple.com/library/ios/#qa/qa1623/_index.html
+      id : 51ff6bc4-4b5c-4583-b83d-e4007567401c
+      code : STATE_ERROR.VALIDATION_ERROR
+      title : Validation failed
+   iris-code : STATE_ERROR.VALIDATION_ERROR
+Failed to upload package.

@@ -1,0 +1,5 @@
+已更新 TargetAttributes 手动签名 target=1
+已更新签名配置：com.hdweather.sleep.app(2)；手动签名 target=1；项目级清理=0；xcconfig=0
+手动签名校验通过：
+target=SleepCycle config=Debug bundleId=com.hdweather.sleep.app profileUuid=f1a09e1a-9b70-468a-abf1-b352aceb89c2 profileName=appstore-com.hdweather.sleep.app-20260924092915849 team=DZ3J8DQBK2 identity=Apple Distribution: luyao huang (DZ3J8DQBK2)
+target=SleepCycle config=Release bundleId=com.hdweather.sleep.app profileUuid=f1a09e1a-9b70-468a-abf1-b352aceb89c2 profileName=appstore-com.hdweather.sleep.app-20260924092915849 team=DZ3J8DQBK2 identity=Apple Distribution: luyao huang (DZ3J8DQBK2)

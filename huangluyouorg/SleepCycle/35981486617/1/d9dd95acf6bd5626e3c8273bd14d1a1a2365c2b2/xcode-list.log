@@ -1,0 +1,14 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/SleepCycle/SleepCycle/SleepCycle.xcworkspace
+
+Information about workspace "SleepCycle":
+    Schemes:
+        Pods-SleepCycle
+        Pods-SleepCycle_Test
+        SleepCycle
+        SleepCycle_Test
+        SubscriptionKit
+        UMAPM
+        UMCommon
+        UMDevice
+
